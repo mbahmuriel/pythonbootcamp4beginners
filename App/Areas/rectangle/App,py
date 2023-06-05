@@ -1,0 +1,8 @@
+# The area of a rectangle is length times width
+# get length
+# get width
+# calculate area of rectangle by multiplying length by width
+length = 4
+width = 6
+area = length * width
+print ("This is the area of a rectangle:", area)
